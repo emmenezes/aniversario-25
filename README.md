@@ -14,7 +14,7 @@ A minha ideia é simplesmente anotar aqui várias e várias comemorações até 
 
 Então se alguma atividade lhe interessar, ou você tiver ideias, ou quem sabe uma sugestão de evento, fale comigo! Eu estou caçando exaustivamente motivos para sair e me divertir!
 
-Há eventos que não tem uma data definida, como fazer uma oficina de colagem, e outros com data já no meu calendário, como o show do Gilberto Gil, em 7 de junho de 2026.
+Há eventos que não tem uma data definida, como fazer uma oficina de colagem, e outros com data já no meu calendário, como o show do Gilberto Gil, em 7 de junho de 2025.
 
 Cada evento traz detalhes sobre sua execução, um orçamento estimado e um tipo, pelo menos: comer, gastar, andar, conhecer e aproveitar.
 
