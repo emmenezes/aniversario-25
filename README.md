@@ -10,7 +10,7 @@ Mas vamos à parte importante desse convite, como funciona:
 
 Aqui eu tenho um lista de muitas e muitas coisas que eu gostaria de fazer, e eu penso que tudo poderia ser mais divertido se fizesse na companhia de outras pessoas, como você!
 
-A minha ideia é simplesmente anotar aqui várias e várias comemorações até o meu próximo aniversário, em 2026, então até lá, tudo que eu possa dividir com outras pessoas será anotado aqui, tipo uma agenda aberta.
+A minha ideia é simplesmente anotar aqui várias e várias comemorações até o meu próximo aniversário, em 2025, então até lá, tudo que eu possa dividir com outras pessoas será anotado aqui, tipo uma agenda aberta.
 
 Então se alguma atividade lhe interessar, ou você tiver ideias, ou quem sabe uma sugestão de evento, fale comigo! Eu estou caçando exaustivamente motivos para sair e me divertir!
 
