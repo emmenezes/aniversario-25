@@ -27,8 +27,11 @@ E é isso!
 #### #1 Cine Brasília
 
 *Local:* [Maps](https://maps.app.goo.gl/kZjuMKxjwgvca52W9), 106/107 sul, é uma estação do metrô
+
 *Horários possíveis:* dias de semana à noite, ou final de semana qualquer horário
+
 *Duração:* 2/3 horas
+
 *Orçamento:*
 
 * 20 a inteira, 10 a meia, 5 às segundas
@@ -41,8 +44,11 @@ E é isso!
 #### #3 Slackline
 
 *Local:* Parque da cidade
+
 *Horários possíveis:* fim de semana
+
 *Duração:* 1/2 horas
+
 *Orçamento:*
 
 * Não sei quanto custa a corda, mas talvez alguém tenha
@@ -54,8 +60,11 @@ Nunca fiz slackline, não sei como funciona, não faço a menor ideia de que tip
 #### #4 Sessão cinema - Turma da Mônica live action
 
 *Local:* a definir
+
 *Horários possíveis:* fim de semana
+
 *Duração:* 4/5 horas
+
 *Orçamento:*
 
 * Só uns lanches (30 reais)
@@ -67,8 +76,11 @@ Quando criança, eu colecionei muitos gibis da Turma da Mônica, tinha aqueles a
 #### #5 Aprender tricô
 
 *Local:* a definir
+
 *Data e hora:* fim de semana
+
 *Duração:* 1/2 horas
+
 *Orçamento:*
 
 * Par de agulhas de tricô, até 10 reais
@@ -82,8 +94,11 @@ Eu tenho linhas e um par de agulhas. Já tentei no passado, mas não foi pra fre
 #### #2 Tesourinha - Feira de Artes Gráficas
 
 *Local:* [Maps](https://maps.app.goo.gl/fdyBtK4EwCeZoK3h6), Espaço Cultural Renato Russo
+
 *Data e hora:* 17 de agosto, de 10h a 19h
+
 *Duração:* 2/3 horas
+
 *Orçamento:*
 
 * Ai o que você comprar depende de você
