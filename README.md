@@ -89,7 +89,7 @@ Eu tenho linhas e um par de agulhas. Já tentei no passado, mas não foi pra fre
 
 **Objetivo:** conhecer
 
-### #8 Lojas de jogos usados
+#### #8 Lojas de jogos usados
 
 *Local:* [Maps](https://maps.app.goo.gl/kyUNHHai16yQhbdL9), sudoeste comercial
 
@@ -105,7 +105,7 @@ Eu apenas queria comprar um video-game retrô e mais em conta pra jogar no tempo
 
 **Objetivo:** gastar, conhecer
 
-### #9 Noite dos Slides
+#### #9 Noite dos Slides
 
 *Local:* minha casa (assim que eu tiver um projetor) ou a sua casa!
 
@@ -150,7 +150,7 @@ Feira de artes gráficas, lugar de comprar print, adesivo e outras preciosidades
 
 **Objetivo:** gastar
 
-### #7 Rabiscão + Quermesse
+#### #7 Rabiscão + Quermesse
 
 
 *Local:* [Maps](https://maps.app.goo.gl/fdyBtK4EwCeZoK3h6), Espaço Cultural Renato Russo, [Maps](https://maps.app.goo.gl/TQqrQHA2iCjEhWZs9), Templo Budista 315/316 sul.
