@@ -130,7 +130,7 @@ Eu já vi este conceito na internet e estou D-O-I-D-A para vivê-lo. A ideia é 
 * Explicando as regras de pontuação de ginástica olímpica
 * Todas as fofocas da polêmica H, com linha do tempo
 
-### #10 Teatro [NOVO]
+#### #10 Teatro [NOVO]
 
 *Local:* a definir
 
@@ -144,7 +144,7 @@ Eu já vi este conceito na internet e estou D-O-I-D-A para vivê-lo. A ideia é 
 
 Faz alguns anos que não piso em um teatro, também nunca vi uma peça, tenho curiosidade de ver ao vivo e seria bom realizar esse desejo no ano.
 
-### #11 Malabarismo [NOVO]
+#### #11 Malabarismo [NOVO]
 
 *Local:* a definir
 
@@ -158,7 +158,7 @@ Faz alguns anos que não piso em um teatro, também nunca vi uma peça, tenho cu
 
 Ver [Augusto Akio fazendo malabarismo após terminar seu percurso](https://youtu.be/QR5NGJKttuo?si=o589_GH1n-Fj4sYh&t=255) mexeu profundamente comigo e agora eu quero aprender (ou pelo menos tentar). Veja o vídeo, até coloquei no instante certo.
 
-### #12 Origami [NOVO]
+#### #12 Origami [NOVO]
 
 *Local:* a definir
 
@@ -172,7 +172,7 @@ Ver [Augusto Akio fazendo malabarismo após terminar seu percurso](https://youtu
 
 Eu já tenho o papel, só queria passar um tempo pesquisando receitas e executando. Em particular, coisas que parecem estupidamente trabalhosas como origami 3d, aquele que é composto por muitos e muitos pequeno origamis.
 
-### #13 Arcade [NOVO]
+#### #13 Arcade [NOVO]
 
 *Local:* a definir
 
@@ -186,7 +186,7 @@ Eu já tenho o papel, só queria passar um tempo pesquisando receitas e executan
 
 A última vez que eu brinquei num arcade, em jogos de tiro ou corrida, eu não falava inglês. E tenho até dúvidas se o jogo tava ligado, ou fui uma criança iludida. Queria tentar de novo, dessa vez fazendo certo. Eu sei que aqui em Brasília, tem Hotzone e alguns arcades isolados, como no Pátio, esse último me parece mais interessante.
 
-### #15 Brigaderia [NOVO]
+#### #15 Brigaderia [NOVO]
 
 *Local:* [Maps](https://maps.app.goo.gl/FxqhiD2aNWDRg7AW8), CLSW 103, Bloco B, subsolo
 
@@ -200,7 +200,7 @@ A última vez que eu brinquei num arcade, em jogos de tiro ou corrida, eu não f
 
 Achei essa Brigaderia recentemente e o lugar parece tão agradável, bonito. Estou pensando em ir lá só pra ler um livro e desfrutar um ambiente. Mas se eu for com outra pessoa, posso dividir e conquistar.
 
-### #16 Oficina de colagem [NOVO]
+#### #16 Oficina de colagem [NOVO]
 
 *Local:* [Maps](https://maps.app.goo.gl/FxqhiD2aNWDRg7AW8), CLSW 103, Bloco B, subsolo
 
@@ -215,7 +215,7 @@ Achei essa Brigaderia recentemente e o lugar parece tão agradável, bonito. Est
 
 A última vez que eu fiz colagem eu devia ter 10 anos e só me lembro deste dia, porque eu cortei duas pernas distintas para uma moça e percebi só depois de colar que elas não eram do mesmo tamanho. Liberdade artística que chama. Como dá pra ver, adoro atividades manuais, passar horas a fio sem ver uma tela, e explorar a minha coordenação motora. Quero entender esse hobby, e quem sabe acabar com, no mínimo, 1 unidade decente de colagem que posso usar como capa de caderno.
 
-### #17 Observação de estrelas [NOVO]
+#### #17 Observação de estrelas [NOVO]
 
 *Local:* a definir
 
@@ -249,7 +249,7 @@ Feira de artes gráficas, lugar de comprar print, adesivo e outras preciosidades
 
 **Objetivo:** gastar
 
-### #14 Adoção de gato [NOVO]
+#### #14 Adoção de gato [NOVO]
 
 *Local:* My Cat Space ou Betina Cat Café, a definir
 
