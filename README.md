@@ -1,6 +1,8 @@
 # Convite do Aniversário de 25 anos de Emme
 
-*Última atualização: 27 de agosto*
+*Última atualização: 22 de setembro*
+
+*Nota: já veio aqui antes? Então busque por [NOVO] com colchetes para ver os eventos adicionados na última atualização*
 
 Olá! Se você está acessando essa página, fico muito feliz de partilhar com você minha agenda de aniversário de 25 anos!
 
@@ -130,7 +132,9 @@ Eu já vi este conceito na internet e estou D-O-I-D-A para vivê-lo. A ideia é 
 * Explicando as regras de pontuação de ginástica olímpica
 * Todas as fofocas da polêmica H, com linha do tempo
 
-#### #10 Teatro [NOVO]
+**Objetivo:** aproveitar
+
+#### #10 Teatro
 
 *Local:* a definir
 
@@ -144,7 +148,9 @@ Eu já vi este conceito na internet e estou D-O-I-D-A para vivê-lo. A ideia é 
 
 Faz alguns anos que não piso em um teatro, também nunca vi uma peça, tenho curiosidade de ver ao vivo e seria bom realizar esse desejo no ano.
 
-#### #11 Malabarismo [NOVO]
+**Objetivo:** conhecer
+
+#### #11 Malabarismo
 
 *Local:* a definir
 
@@ -158,7 +164,9 @@ Faz alguns anos que não piso em um teatro, também nunca vi uma peça, tenho cu
 
 Ver [Augusto Akio fazendo malabarismo após terminar seu percurso](https://youtu.be/QR5NGJKttuo?si=o589_GH1n-Fj4sYh&t=255) mexeu profundamente comigo e agora eu quero aprender (ou pelo menos tentar). Veja o vídeo, até coloquei no instante certo.
 
-#### #12 Origami [NOVO]
+**Objetivo:** aproveitar
+
+#### #12 Origami
 
 *Local:* a definir
 
@@ -172,7 +180,9 @@ Ver [Augusto Akio fazendo malabarismo após terminar seu percurso](https://youtu
 
 Eu já tenho o papel, só queria passar um tempo pesquisando receitas e executando. Em particular, coisas que parecem estupidamente trabalhosas como origami 3d, aquele que é composto por muitos e muitos pequeno origamis.
 
-#### #13 Arcade [NOVO]
+**Objetivo:** aproveitar
+
+#### #13 Arcade
 
 *Local:* a definir
 
@@ -186,7 +196,9 @@ Eu já tenho o papel, só queria passar um tempo pesquisando receitas e executan
 
 A última vez que eu brinquei num arcade, em jogos de tiro ou corrida, eu não falava inglês. E tenho até dúvidas se o jogo tava ligado, ou fui uma criança iludida. Queria tentar de novo, dessa vez fazendo certo. Eu sei que aqui em Brasília, tem Hotzone e alguns arcades isolados, como no Pátio, esse último me parece mais interessante.
 
-#### #15 Brigaderia [NOVO]
+**Objetivo:** aproveitar
+
+#### #15 Brigaderia
 
 *Local:* [Maps](https://maps.app.goo.gl/FxqhiD2aNWDRg7AW8), CLSW 103, Bloco B, subsolo
 
@@ -196,11 +208,14 @@ A última vez que eu brinquei num arcade, em jogos de tiro ou corrida, eu não f
 
 *Orçamento:*
 
-* Infelizmente não achei o cardápio, então separe pelo menos 30
+* 5,5 cada brigadeiro
+* 10, no mínimo, uma bebida
 
 Achei essa Brigaderia recentemente e o lugar parece tão agradável, bonito. Estou pensando em ir lá só pra ler um livro e desfrutar um ambiente. Mas se eu for com outra pessoa, posso dividir e conquistar.
 
-#### #16 Oficina de colagem [NOVO]
+**Objetivo:** conhecer, comer
+
+#### #16 Oficina de colagem
 
 *Local:* [Maps](https://maps.app.goo.gl/FxqhiD2aNWDRg7AW8), CLSW 103, Bloco B, subsolo
 
@@ -215,7 +230,9 @@ Achei essa Brigaderia recentemente e o lugar parece tão agradável, bonito. Est
 
 A última vez que eu fiz colagem eu devia ter 10 anos e só me lembro deste dia, porque eu cortei duas pernas distintas para uma moça e percebi só depois de colar que elas não eram do mesmo tamanho. Liberdade artística que chama. Como dá pra ver, adoro atividades manuais, passar horas a fio sem ver uma tela, e explorar a minha coordenação motora. Quero entender esse hobby, e quem sabe acabar com, no mínimo, 1 unidade decente de colagem que posso usar como capa de caderno.
 
-#### #17 Observação de estrelas [NOVO]
+**Objetivo:** aproveitar
+
+#### #17 Observação de estrelas
 
 *Local:* a definir
 
@@ -229,52 +246,294 @@ A última vez que eu fiz colagem eu devia ter 10 anos e só me lembro deste dia,
 
 Admito que a única constelação que eu sou capaz de reconhecer é Órion (obviamente, por causa do filme Homens de Preto 1), mas isso não tira meu fascínio de toda semana, em algum momento, olhar pro céu e pensar que esse mesmo céu está sendo observado há mais anos do que sou capaz de compreender. Queria passar uma noite só fazendo isso, tentando entender as constelações, observando as estrelas cruzarem de leste à oeste, e contemplando. Sei que os melhores lugares para isso são longe do centro e da sua poluição, mas não faço ideia de onde seria um lugar seguro. Pode ser um evento de algumas horinhas, como pode também ser um quase viradão (duvido que eu vá aguentar ficar de pé até o sol nascer). Aceito ideias, todas.
 
-### Com data
+**Objetivo:** aproveitar
 
-#### #6 Montim - Feira Pré-Motim
+#### #18 Dia do Gacha [NOVO]
 
-*Local:* [Maps](https://maps.app.goo.gl/GafFJy6eif445EDP7), Birosca Conic DF
+*Local:* alguma casa ou café
 
-*Data e hora:* 31 de agosto e 1 de setembro, de 11h a 18h
+*Horários possíveis:* fim de semana
 
-*Duração:* 2/3 horas
+*Duração:* 2  horas
 
 *Orçamento:*
 
-* Ai o que você comprar depende de você
+* +100
 
-Feira de artes gráficas, lugar de comprar print, adesivo e outras preciosidades.
+A proposta é um dia marcar de comprar um monte de item surpresa (gacha) pelo Ali Express ou outra plataforma similar, e um dia, no final de semana, marcar de abrir tudo junto. Eu pensei em gacha de Sanrio, Tamagotchi, Sylvanian Families, qualquer chaveiro que parecer legal, e por aí vai.
 
-[Instagram](https://www.instagram.com/edicoesmotim/)
+Requisito: preparo psicológico para as taxas e o tempo de espera.
 
 **Objetivo:** gastar
 
-#### #14 Adoção de gato [NOVO]
+#### #19 The Queen's Place (café) [NOVO]
 
-*Local:* My Cat Space ou Betina Cat Café, a definir
+*Local:* [Maps](https://maps.app.goo.gl/jf1erVoEyqHiMP6b6), 116 sul
 
-*Data e hora:* 31 de agosto à tarde
+*Horários possíveis:* sábado à tarde (chá da tarde, óbvio)
+
+*Duração:* 2 horas
+
+*Orçamento:*
+
+* 60, refeição por pessoa
+
+[Cardápio e site](https://www.thequeensplace.com)
+
+Eu encontrei por acaso procurando outra coisa e as imagens me encantaram, preciso comer lá. Reconheço que o preço não é dos mais amigáveis, mas a estratégia vai ser a de sempre: dividir e conquistar.
+
+Sempre quis saber como deve ser um chá bem feito, diferente do meu de saquinho que custa nem 50 centavos e foi feito com água fervente (que eu reconheço que não é o certo, mas dificilmente lembro de desligar o fogão a tempo).
+
+**Objetivo:** conhecer, comer, gastar
+
+#### #20 Chez L’ami Creperia [NOVO]
+
+*Local:* [Maps](https://maps.app.goo.gl/YT2dEuwG1eygcgvA9), sudoeste comercial
+
+*Horários possíveis:* dia de semana à noite
+
+*Duração:* a definir
+
+*Orçamento:*
+
+* 50, para a refeição
+
+Parece um lugar charmoso, calmo e agradável. Meu terapeuta disse que o crepe é ótimo. Preciso provar.
+
+**Objetivo:** conhecer, comer, gastar
+
+#### #21 Casa de chá [NOVO]
+
+*Local:* [Maps](https://maps.app.goo.gl/BF2DxrYbWoaFPaN16), UnB
+
+*Horários possíveis:* segunda às 16h
+
+*Duração:* 2 horas
+
+*Orçamento:*
+
+* A entrada é de graça
+* 20, para um lanche
+
+Já fui nessa casa de chá algumas vezes, fica perto do postinho da UnB. Eu considero um lugar muito agradável, adoro olhar as plantas, ficar conversando sob a sombra das árvores, quem sabe até encaixa um jogo de tabuleiro ali. Um bom lugar para não olhar para telas (digo isso enquanto estou usando 3 telas simultaneamente).
+
+Cuidado que os irrigadores automáticos ligam às 17h.
+
+**Objetivo:** aproveitar, conhecer, andar
+
+#### #22 Clube do Choro de Brasília [NOVO]
+
+*Local:* [MAPS](https://maps.app.goo.gl/4AuesPCnQwpYd5Nr6)
+
+*Horários possíveis:* sexta ou sábado à noite
+
+*Duração:* a definir
+
+*Orçamento:*
+
+* Vi ingressos entre 30 e 80
+
+[Site oficial](https://clubedochoro.com.br)
+
+[Bilheteria](https://www.bilheteriadigital.com/choro)
+
+Passei, pelo menso, 4 anos da minha vida indo e voltando pelo eixo monumental e vendo o Clube do Choro. E assim surge um desejo crescente de conhecer.
+
+**Objetivo:** aproveitar, conhecer
+
+#### #25 Caiaque [NOVO]
+
+*Local:* em algum lugar do Lago Paranoá
+
+*Horários possíveis:* sábado ou domingo
+
+*Duração:* 3/4 horas
+
+*Orçamento:*
+
+* A definir
+
+Eu sei que o Lago Paranoá é um lugar duvidoso. Não preciso que me lembrem. Mas fazer caiaque é legal, a vista do meio do lago, sentir a água de tão perto, fazer tanto exercício de braço e acabar preso no meio do lago por 10 minutos, sentir uma ansiedade profunda e um desejo de gritar (talvez seja experiência própria, ou não). Escrevendo isso me fez perceber que talvez esse seja um ótimo lugar para dar um berros aleatórios e necessários.
+
+Preciso de recomendações de lugares confiáveis para fazer isso.
+
+**Objetivo:** aproveitar, conhecer
+
+#### #26 Spa day [NOVO]
+
+*Local:* a definir
+
+*Horários possíveis:* fim de semana
+
+*Duração:* a definir
+
+*Orçamento:*
+
+* A definir
+
+Ainda não decidi se eu gostaria de ir num lugar, ou então de comprar várias coisas e fazer um spa caseiro. Mas eu queria fazer. O ano tem sido duro, todo feriado cai sábado, uma vez por semana eu sou o otário da frase "todo dia um otário e um esperto saem de casa", sendo que às vezes nem o esperto sai, só eu saio e ainda me frustro. Um dia calminho envolvendo máscaras de rosto, conversas sem propósito, me faria muito mais que bem.
+
+**Objetivo:** aproveitar
+
+#### #27 Extreme Makeover [NOVO]
+
+*Local:* minha casa
+
+*Horários possíveis:* sábado ou domingo à tarde, a partir de outubro
+
+*Duração:* 3/4
+
+*Orçamento:*
+
+* Nada, comes e bebes por conta da casa
+
+Eu estou passando por uma crise estética, um problema muito grave.
+
+Percebi, lá por junho/julho, que há anos eu só comprei roupa pra estudar na UnB. Ou seja, não tenho um pingo de vontade de usar essas roupas em nenhum outro contexto além de ir na padaria e pegar encomendas da Amazon na portaria.
+
+E, simultaneamente, eu não sei o que poderia resolver a minha frustração atual. Então, venho encarecidamente pedir ajuda para limpar o meu guarda-roupa, preciso tirar o que não faz sentido, e preciso de ideias sobre como preencher as lacunas.
+
+Vai ser algo um processo um pouco trabalhoso, preenchido por música, Pinterest e Google (para descobrir os nomes das coisas que só sabemos descrever e não o nome). Eu preciso seriamente de alguém que entenda de roupa e não tenha dó de me dizer algo como "não dá pra salvar nenhuma das suas roupas, lamento".
+
+É isso, esse é meu pedido de ajuda, socorro.
+
+**Objetivo:** aproveitar
+
+#### #28 Água mineral [NOVO]
+
+*Local:* [Maps](https://maps.app.goo.gl/3ehJ2vK1qZWkcYb17)
+
+*Horários possíveis:* sábado ou domingo ou feriado
+
+*Duração:* 7/8 horas
+
+*Orçamento:*
+
+* 18, ingresso
+* 20, transporte
+* 50, comida
+
+[Instgram](https://www.instagram.com/parquenacionalbrasilia/)
+
+Como manauara, é meu dever ir ao banho (gíria local, não vou explicar). E o água mineral se encaixa o suficiente no meu conceito para me fazer feliz. Meu corpo clama uma água geladinha em um dia quente, já cansei de derreter. E tem trilha!
+
+**Objetivo:** aproveitar, conhecer, andar
+
+#### #29 Escultura de balão [NOVO]
+
+*Local:* minha ou sua casa
+
+*Horários possíveis:* fim de semana
+
+*Duração:* 3/4
+
+*Orçamento:*
+
+* Nada
+
+Quando criança, eu era obcecada com esculturas de balão e até aprendi a fazer algumas. Eu lembro de ter duas fitas VHS de aulas sobre como fazer escultura de balão e tratava-as como se fossem sagradas. Esses dias eu fui em algum lugar que tinha, e isso me atiçou a passar um dia vendo vídeos e fazer coisinhas engraçadas.
+
+**Objetivo:** aproveitar
+
+#### #30 Betina Café [NOVO]
+
+*Local:* [Maps](https://maps.app.goo.gl/2onqEUovk52gkJZi6)
+
+*Horários possíveis:* dia de semana à noite
 
 *Duração:* 1/2 horas
 
 *Orçamento:*
 
-* 30 e 40 se for fazer um lanche
-* 1 real o minuto com os gatos (não tenho certeza se os dois são assim)
+* Uns 50
 
-Enfim vou adotar um bichano e vai ser essa semana sem falta! Também vai ser um momento divertido para brincar com os bichinhos e conhecer essas iniciativas que redestinam gatinhos de rua para suas futuras famílias.
+Depois de adotar as gatinhas, fiquei muito mais curiosa sobre como é um Cat Café e agora eu quero ir para conhecer e apoiar.
 
-Rabiscão: Feira de artes gráficas, lugar de comprar print, adesivo e outras preciosidades. [Instagram](https://www.instagram.com/rabiscaoilustrado/)
+**Objetivo:** conhecer, comer
 
-Quermesse: Festa tradicional nipo-brasileira (?). [Instagram](https://www.instagram.com/budismodaterrapura/)
+#### #32 La Fleur [NOVO]
 
-**Objetivo:** gastar, aproveitar
+*Local:* [Maps](https://maps.app.goo.gl/ZTERZJAkFXNnDmBYA), sudoeste comercial
+
+*Horários possíveis:* um dia à noite
+
+*Duração:* 1/2 horas
+
+*Orçamento:*
+
+* 50, para a refeição
+
+Um restaurante muito charmoso pelo qual passo de vez em quando.
+
+**Objetivo:** conhecer, comer
+
+### Com data
+
+#### #23 Motim [NOVO]
+
+*Local:* [Maps](https://maps.app.goo.gl/PcG3eoBE8YpRgRcdA), Museu Nacional
+
+*Data e hora:* 30 de novembro e 1 de dezembro
+
+*Duração:* 3/4 horas
+
+*Orçamento:*
+
+* Fica por sua conta, mas deve ser uma das maiores feiras de artes do ano
+
+Eu fui na feira do meio de ano e foi com certeza uma das melhores coisas que fiz esse ano. Já estou juntando dinheiro para ir na segunda grande edição.
+
+**Objetivo:** gastar
+
+#### #24 Show do Billlie [NOVO]
+
+*Local:* [MAPS](https://maps.app.goo.gl/xdpBRRbnN1tquMUEA), Studio Stage
+
+*Data e hora:* 3 de dezembro, terça, à noite
+
+*Duração:* 2 a 3 dias
+
+*Orçamento:*
+
+* Caro
+
+Meu segundo show de K-pop! Dessa vez para conhecer o Billlie, eu só tenho photocards oficiais de dois grupos, e um deles é o Billlie. Preciso conhecê-las!!
+
+**Objetivo:** aproveitar, conhecer
+
+#### #31 Tiramisu caseiro [NOVO]
+
+*Local:* minha casa
+
+*Data e hora:* 15, 16 e 17 de novembro (feriado)
+
+*Duração:* 3 dias
+
+*Orçamento:*
+
+* 70, para o que faltar das refeições
+
+[Tiramisu por Paola Carosella](https://youtu.be/rnmnK0d1rA8?si=1IGy2KJWaFbFHFNJ)
+
+[Sorvete caseiro por Manual do Mundo](https://youtube.com/shorts/_bO7j9vAmPU?si=-uczG5JCA26AaJdA)
+
+Eu ouvi o conto da produção de tiramisu artesanal, que inclui até as etapas de fazer o creme de leite fresco. No conto, o processo durou por volta de 60 horas, cheios de intervalos de apenas espera, e só ocasionalmente era necessário, adicionar e misturar ingredientes.
+
+Pareceu tão trabalhoso, meus olhos brilharam no hora! Então busco uma companhia pra dormir aqui em casa e fazer parte do processo. Com o creme de leite fresco, no segundo dia vai ser possível fazer também milkshake caseiro, que é outra coisa que desejo fazer há tempos.
+
+**Objetivo:** comer
 
 ## Notas de Atualização
 
 ### Próximas atualizações
 
-* Descobrir como deixar o GitHub pages colorido
+* Descobrir como deixar o GitHub pages colorido [prioridade]
+* Adicionar uma foto da Mina e da Capitu
+
+### 1.3
+
+* Adicionei todos os eventos (relevantes) do meu caderno;
+* Removi o que passou.
 
 ### 1.2
 
