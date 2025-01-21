@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="bg-slate-900">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -7,10 +7,28 @@
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/daisyui@4.12.23/dist/full.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
   </head>
-  <body>
-    <h1>Testando se funciona</h1>
 
-    <script src="" async defer></script>
+  <body class="flex flex-col container max-w-screen-sm mx-auto text-white">
+    <header class="flex justify-between items-center m-2">
+      <img class="icon" src="assets/icons/menu.png" />
+      <img class="logo" src="assets/a.png" />
+      <img class="icon" src="assets/icons/search.png" />
+    </header>
+
+    <div role="tablist" class="tabs tabs-bordered mb-4">
+      <div class="tab tab-active">Para você</div>
+      <div class="tab">Arquivo</div>
+    </div>
+
+    <main id="ForYou" class="container-sm mx-auto px-4 flex flex-col"></main>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="script.js"></script>
   </body>
 </html>

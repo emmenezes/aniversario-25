@@ -3,3 +3,18 @@ body {
     Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
 }
+
+.logo {
+  height: 32px;
+  object-fit: contain;
+}
+
+.icon {
+  height: 32px;
+  object-fit: contain;
+}
+
+.user-icon {
+  height: 32px;
+  width: 32px;
+}
